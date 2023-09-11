@@ -23,8 +23,8 @@ namespace MyWebApplication.Controllers
                     { "track:", track },
                     { "current_day:", currentDay },
                     { "utc_time:", currentTimeUtc },
-                    { "github_file_url", "name" },
-                    { "github_repo_url", "name" },
+                    { "github_file_url", "https://github.com/EslamAbdElhakem/Zuri_stage_1/edit/main/Controllers/Stage_1_Controller.cs" },
+                    { "github_repo_url", "https://github.com/EslamAbdElhakem/Zuri_stage_1" },
                     { "statuscode:", "200" },
                 };
 
